@@ -103,8 +103,6 @@ gas
 gel
 gem
 gig
-git
-gnu
 god
 gum
 gun
@@ -172,7 +170,6 @@ nut
 oak
 oar
 oat
-obi
 oil
 ore
 owl
@@ -252,7 +249,6 @@ urn
 use
 van
 vet
-vol
 wad
 war
 wax
@@ -261,8 +257,6 @@ web
 win
 wit
 wok
-yak
-yam
 yew
 yin
 zen

@@ -1,8 +1,6 @@
 acid
 acre
-aide
 alto
-apse
 arch
 area
 army
@@ -30,7 +28,6 @@ beam
 bean
 bear
 beat
-beck
 beef
 beer
 beet
@@ -60,7 +57,6 @@ bore
 boss
 bout
 bowl
-bran
 brow
 buck
 bulb
@@ -82,7 +78,6 @@ cane
 cape
 card
 care
-carp
 cart
 case
 cash
@@ -90,9 +85,7 @@ cast
 cave
 cell
 cent
-chap
 chef
-chem
 chin
 chip
 chop
@@ -104,7 +97,6 @@ clam
 clan
 claw
 clay
-clef
 clip
 club
 clue
@@ -131,7 +123,6 @@ crab
 crap
 craw
 crew
-cria
 crib
 crop
 crow
@@ -139,7 +130,6 @@ cube
 curd
 cure
 curl
-cyst
 dame
 damn
 dare
@@ -158,9 +148,7 @@ deed
 deep
 deer
 desk
-dhow
 dial
-diam
 dick
 diet
 dill
@@ -172,7 +160,6 @@ dock
 doll
 dome
 door
-dory
 dose
 down
 drag
@@ -190,10 +177,8 @@ dust
 duty
 ease
 east
-eddy
 edge
 envy
-epee
 epic
 evil
 exam
@@ -206,12 +191,10 @@ fame
 fang
 farm
 fate
-fava
 fawn
 fear
 feed
 feel
-feng
 file
 fill
 film
@@ -220,7 +203,6 @@ fire
 firm
 fish
 flag
-flan
 flat
 flax
 flow
@@ -255,7 +237,6 @@ gene
 gift
 girl
 glee
-glen
 glow
 glue
 glut
@@ -276,10 +257,8 @@ grin
 grip
 grit
 grub
-gyro
 hail
 hair
-hake
 half
 hall
 halt
@@ -296,7 +275,6 @@ heat
 heel
 heir
 hell
-helo
 help
 hemp
 herb
@@ -343,8 +321,6 @@ judo
 jump
 junk
 jury
-jute
-kale
 keep
 kick
 kill
@@ -353,7 +329,6 @@ kind
 king
 kiss
 kite
-kiwi
 knee
 knot
 lace
@@ -391,22 +366,16 @@ load
 loaf
 loan
 lock
-lode
 loft
 logo
 look
 loop
 lord
 loss
-lout
 love
 luck
 lung
 lust
-lute
-lynx
-lyre
-mRNA
 maid
 mail
 main
@@ -414,7 +383,6 @@ male
 mall
 mama
 many
-mare
 mark
 mask
 mass
@@ -436,11 +404,9 @@ mime
 mind
 mine
 mini
-mink
 mint
 miss
 mist
-moai
 moat
 mode
 mole
@@ -460,18 +426,13 @@ neon
 nest
 news
 nick
-node
-noir
 noon
 norm
 nose
 note
 noun
 nuke
-oats
 oboe
-okra
-oleo
 oval
 oven
 pace
@@ -481,8 +442,6 @@ pail
 pain
 pair
 palm
-papa
-pard
 park
 part
 pass
@@ -492,14 +451,11 @@ path
 peak
 pear
 peek
-peen
 peer
 pelt
-perp
 pest
 pick
 pier
-pike
 pile
 pill
 pimp
@@ -510,7 +466,6 @@ pint
 pipe
 piss
 pita
-pith
 plan
 play
 plea
@@ -553,7 +508,6 @@ rate
 read
 real
 rear
-reef
 rent
 rest
 rice
@@ -583,20 +537,16 @@ sack
 safe
 sage
 sail
-sake
 sale
 salt
 sand
-sari
 sash
 scam
-scow
 seal
 seat
 seed
 seep
 self
-shaw
 shed
 shin
 ship
@@ -610,7 +560,6 @@ side
 sigh
 sign
 silk
-sill
 silo
 sink
 site
@@ -622,7 +571,6 @@ slip
 slot
 smog
 snap
-snob
 snow
 snug
 soap
@@ -638,13 +586,10 @@ soul
 soup
 span
 spat
-spec
 spit
 spot
-spud
 spur
 stab
-stag
 star
 stay
 stem
@@ -654,7 +599,6 @@ stop
 stot
 stud
 suck
-suet
 suit
 swan
 swim
@@ -664,7 +608,6 @@ tale
 talk
 tank
 tape
-taro
 tart
 task
 taxi
@@ -673,7 +616,6 @@ tear
 tech
 teen
 tell
-temp
 tent
 term
 test
@@ -712,7 +654,6 @@ tune
 turf
 turn
 tusk
-tutu
 twig
 type
 unit
@@ -732,7 +673,6 @@ view
 vine
 visa
 vise
-vivo
 void
 vote
 wage
@@ -749,7 +689,6 @@ weed
 week
 well
 west
-whey
 whip
 wick
 wife
@@ -763,7 +702,6 @@ wink
 wire
 wish
 wolf
-wont
 wood
 wool
 word
@@ -774,13 +712,10 @@ wren
 yang
 yard
 yarn
-yawl
 year
 yoga
 yoke
 yolk
 yoyo
-yurt
 zero
-zinc
 zone
